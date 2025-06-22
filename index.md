@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+My name is Garhett Wheeler. I am a detail-oriented cybersecurity professional. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security to help safeguard organizations and people alike. 
 
 [Link to another page](./another-page.html).
 
